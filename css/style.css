@@ -78,6 +78,7 @@ header {
     position: relative;
     right: 26%;
     bottom: 42%;
+    min-width: 37px;
 }
 
 .nav__list {
